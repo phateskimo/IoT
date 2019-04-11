@@ -22,7 +22,7 @@ Python scripts for Coursera IoT Courses: *The Raspberry Pi Platform and Python P
  - Week 3 Assignment: Take user input, in numbers, then display them sorted lowest to greatest
 
 - intro.py
-  -Week 1 notes: notes showing various Python syntax 
+  - Week 1 notes: notes showing various Python syntax 
 
 - rPiBlinky.py
   - Week 4 Assingment: make an LED bink on rPi, stop the blinking and have LED solid if button is pushed
