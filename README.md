@@ -1,7 +1,8 @@
 # IoT
 Python scripts for Coursera IoT Courses: *The Raspberry Pi Platform and Python Programming for the Raspberry Pi* & *Interfacing with the Raspberry Pi*
 
-##Prerequisites
+## Prerequisites
+
 -python3
 
 ### *rPiBlinky specifically needs a Pi and a few other things
