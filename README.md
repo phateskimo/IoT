@@ -32,7 +32,7 @@ Python scripts for Coursera IoT Courses: *The Raspberry Pi Platform and Python P
   - Week 2 Assignment: Simple Python web server. Create socket, bind socket to IP & port and then listen for connection, accept connection, recieve request and finally send response
 
 - server2.py
-  -Week 2 Assignment: Simple Python web server with GPIO outputs. Create socket, bind socket to IP & port and then listen for connection, accept connection, recieve request and finally send response
+  - Week 2 Assignment: Simple Python web server w/ added GPIO output. Create socket, bind socket to IP & port and then listen for connection, accept connection, recieve request and finally send response
 
 - twit.py
   - Week 3 Assignment: Search Twitter for mentions of Ian G. Harris, print to screen when results are found
