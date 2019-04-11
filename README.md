@@ -16,10 +16,10 @@ Python scripts for Coursera IoT Courses: *The Raspberry Pi Platform and Python P
   ## Contents
   
 - client.py
- - Week 1 Assignment: create a script that sends HTTP request and displays response
+  - Week 1 Assignment: create a script that sends HTTP request and displays response
   
 - inputSort.py
- - Week 3 Assignment: Take user input, in numbers, then display them sorted lowest to greatest
+  - Week 3 Assignment: Take user input, in numbers, then display them sorted lowest to greatest
 
 - intro.py
   - Week 1 notes: notes showing various Python syntax 
@@ -35,7 +35,7 @@ Python scripts for Coursera IoT Courses: *The Raspberry Pi Platform and Python P
   -Week 2 Assignment: Simple Python web server with GPIO outputs. Create socket, bind socket to IP & port and then listen for connection, accept connection, recieve request and finally send response
 
 - twit.py
- - Week 3 Assignment: Search Twitter for mentions of Ian G. Harris, print to screen when results are found
+  - Week 3 Assignment: Search Twitter for mentions of Ian G. Harris, print to screen when results are found
   
 
 
