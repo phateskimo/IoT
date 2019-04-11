@@ -13,7 +13,7 @@ Python scripts for Coursera IoT Courses: *The Raspberry Pi Platform and Python P
   - wires
   - button
   
-  ## Contents
+## Contents
   
 - client.py
   - Week 1 Assignment: create a script that sends HTTP request and displays response
